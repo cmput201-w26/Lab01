@@ -13,7 +13,7 @@ The tools we introduce to you here will be ones you will use in any programming-
 We hope that you can get comfortable using these tools throughout this year. 
 For now though, this lab serves as a simple introduction.
 
-If you need any help with the lab, please don't hesitate to email the TAs, attend *any* lab section (not just your own), or come to one of the TA office hours (Tuesdays and Thursdays, 11:00am - 1:30pm, usually @UCOMM 4-450, see Canvas for exceptions).
+If you need any help with the lab, please don't hesitate to email the TAs, attend *any* lab section (not just your own), or come to one of the TA office hours (Tuesdays and Thursdays, 11:00am - 1:30pm, usually @UCOMM 2-001, see Canvas for exceptions).
 
 ## Important Distinctions between Unix and Windows
 
@@ -523,6 +523,7 @@ You should `git push` after every commit, to make sure you don't forget to do so
 
 That's it! Thank you for bearing with us through this lengthy starter lab. 
 Make sure you push everything to your GitHub repository by the deadline.
+
 
 
 
