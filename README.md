@@ -1,6 +1,6 @@
 # Lab 1 - Welcome to CMPUT 201
 
-This lab exercise is due before __11:59pm, September 14, 2025__. This lab is essential to work on the future lab exercises.
+This lab exercise is due before __11:59pm, January 18, 2026__. This lab is essential to work on the future lab exercises.
 <hr>
 
 Welcome to CMPUT201! We're happy to have you here! 
@@ -523,5 +523,6 @@ You should `git push` after every commit, to make sure you don't forget to do so
 
 That's it! Thank you for bearing with us through this lengthy starter lab. 
 Make sure you push everything to your GitHub repository by the deadline.
+
 
 
